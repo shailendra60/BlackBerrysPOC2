@@ -1,0 +1,13 @@
+{
+"companyName": "shail",
+"productName": "BlackBerrySOP",
+"dataUrl": "BlackBerrys.data.unityweb",
+"asmCodeUrl": "BlackBerrys.asm.code.unityweb",
+"asmMemoryUrl": "BlackBerrys.asm.memory.unityweb",
+"asmFrameworkUrl": "BlackBerrys.asm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
